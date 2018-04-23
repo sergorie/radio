@@ -1,2 +1,2 @@
 # radio
-Just some music .wav for raspberry pi radio
+Just some music .wav or .mp3 for raspberry pi radio
